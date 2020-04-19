@@ -1,0 +1,17 @@
+{
+  "name": "buscador-letras-musicas-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yago Milano <yago.codev@gmail.com> (https://github.com/yago-codev)",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {}
+}
